@@ -1,5 +1,4 @@
 # FingerFluting_VRexperiment
-You only actually need Assets, Packages and Project Settings folders to open up the project in Unity, the rest can be ignored.
 
 Make sure to open in Unity Version 2022.3.11f1 or later.
 
