@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68c93b76616dfde4ba7174de127d3a48, type: 3}
+  m_Name: Cognitive3D_Preferences
+  m_EditorClassIdentifier: 
+  Protocol: https
+  Gateway: data.cognitive3d.com
+  Dashboard: app.cognitive3d.com
+  Viewer: viewer.cognitive3d.com/scene/
+  Documentation: docs.cognitive3d.com
+  EditorHasDisplayedPopup: 0
+  GazeType: 0
+  ApplicationKey: NBPG6E5OSEA3P4EMY2E5AFTODKB8GL5Q
+  AttributionKey: 
+  EnableLogging: 1
+  EnableDevLogging: 0
+  EnableGaze: 1
+  DynamicObjectSearchInParent: 1
+  TrackGPSLocation: 0
+  GPSAccuracy: 2
+  RecordFloorPosition: 1
+  GazeLayerMask: -1
+  DynamicLayerMask: -1
+  TriggerInteraction: 1
+  GazeSnapshotCount: 64
+  SensorSnapshotCount: 128
+  DynamicSnapshotCount: 128
+  EventDataThreshold: 64
+  FixationSnapshotCount: 64
+  AutomaticSendTimer: 10
+  LocalDataCacheSize: 104857600
+  LocalStorage: 1
+  UploadCacheOnEndPlay: 1
+  IncludeDisabledDynamicObjects: 1
+  TextureResize: 1
+  ExportSceneLODLowest: 1
+  sceneSettings:
+  - SceneName: TheCaveRig2
+    SceneId: 0e4ce325-828b-4f51-ad12-5fddabd910aa
+    ScenePath: Assets/TheCaveRig2.unity
+    LastRevision: 12/04/2023 04:20:29
+    VersionNumber: 5
+    VersionId: 5388

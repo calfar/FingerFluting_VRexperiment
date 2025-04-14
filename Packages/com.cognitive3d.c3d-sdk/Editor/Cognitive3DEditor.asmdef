@@ -1,0 +1,47 @@
+{
+    "name": "Cognitive3DEditor",
+    "rootNamespace": "",
+    "references": [
+        "Cognitive3D",
+        "Unity.XR.OpenVR",
+        "SteamVR",
+        "Oculus.VR",
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "GliaAssembly",
+        "GliaEditorAssembly",
+        "Wave.Native",
+        "Wave.Essence",
+        "UnityEngine.SpatialTracking",
+        "SteamVR_Input_Editor",
+        "SteamVR_Actions",
+        "Oculus.VR.Editor",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "",
+            "define": "C3D_HDRP"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "",
+            "define": "C3D_TMPRO"
+        },
+        {
+            "name": "Unity",
+            "expression": "2019.4",
+            "define": "USE_ATTRIBUTION"
+        }
+    ],
+    "noEngineReferences": false
+}
